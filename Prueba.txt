@@ -1,6 +1,3 @@
 Hola vengo a arruinar el GIT
 Yo vengo desde linux a trabajar
 
-Cree otra rama llamada Windows, y el de linux no la va a ver.
-
-Si la vi y voy a crear otra rama llamada Linux
